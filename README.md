@@ -1,16 +1,14 @@
-# daily_task
+# daily_task - TeletibBits
 
-A new Flutter project.
+INTRODUCTION OF OUR DAILYTASK MOBILE APPLICATION 
 
-## Getting Started
+DailyTask is a user-friendly mobile application designed to help individuals efficiently organize and manage their daily tasks, enhancing productivity and time management skills.
 
-This project is a starting point for a Flutter application.
+![alt text]([http://url/to/img.png](https://i.postimg.cc/m2NYY1ZF/e19d13eb-97dc-4498-943d-5e0d493e701e.jpg))
 
-A few resources to get you started if this is your first Flutter project:
+Members:
+Caballero, Rica Jean
+Colonia, Sheryll Jane 
+Daud, Jedda S.
+Rayno, Ma. Mikaella P.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
